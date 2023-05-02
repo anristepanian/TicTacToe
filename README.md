@@ -4,6 +4,8 @@ A simple game everyone knows.
 # Description
 You know the rules.
 
+![](game.png)
+
 # Tools
 The following development tools were used:
 - C#
