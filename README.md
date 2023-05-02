@@ -9,7 +9,7 @@ You know the rules.
 # Tools
 The following development tools were used:
 - C#
-- MS Visual Studio as an IDE
+- MS Visual Studio
 
 # How to run the project
 Just run the [.exe](TicTacToe/bin/Debug/TicTacToe.exe) file :)
