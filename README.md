@@ -21,7 +21,7 @@ Play this game on computer, not on paper, save the environment!
 Write an AI, that plays instead of your friend.
 
 # Authors
-- https://github.com/just-a-Programmer1
+- https://github.com/anristepanian
 
 # License
 [GNU General Public License v3.0](LICENSE)
